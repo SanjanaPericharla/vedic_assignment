@@ -1,0 +1,173 @@
+.block{
+    box-shadow: 0 3px 6px 0 rgba(80, 77, 77, 0.16);
+    background-color: cadetblue;
+    position: relative;
+    top : 50px;
+    overflow: hidden;
+}
+.text5{
+    color: white;
+    position: relative;
+    top : 10px;
+    left : 550px;
+}
+
+.line1{
+    width : 10%;
+    position: relative;
+    top : 50px;
+    color : white;
+    left : 450px;
+}
+.icon1{
+    position: relative;
+    left : 600px;
+    color : white;
+    bottom: 5px;
+    
+
+}
+.line2{
+    width : 10%;
+    position: relative;
+    color : white;
+    left : 650px;
+    bottom : 30px;
+    
+}
+.text6{
+    color: white;
+    position: relative;
+    left : 250px;
+    bottom: 15px;
+}
+.text7{
+    color: white;
+    position: relative;
+    left : 600px;
+    bottom : 140px;
+}
+.nav{
+    background-color: black;
+    height : 50px;
+    position : relative;
+    bottom : 20px;
+}
+.text1{
+    color: white;
+    font-size: 18px;
+    position : relative;
+    top : 20px;
+    left : 30px;
+}
+.text2{
+    color: white;
+    font-size: 18px;
+    position : relative;
+    top : 20px;
+    left : 620px;
+}
+.text3{
+    color: white;
+    font-size: 18px;
+    position: relative;
+    top : 20px;
+    left : 690px;
+    
+
+    
+}
+.text4{
+    color: white;
+    font-size: 18px;
+    position: relative;
+    top : 20px;
+    left : 750px;
+}
+@media only screen and (max-width : 600px) {
+    .block{
+        box-shadow: 0 3px 6px 0 rgba(80, 77, 77, 0.16);
+        background-color: cadetblue;
+        position: relative;
+        top : 50px;
+        overflow: hidden;
+    }
+    .text5{
+        color: white;
+        position: relative;
+        top : 10px;
+        left : 180px;
+    }
+    
+    .line1{
+        width : 20%;
+        position: relative;
+        top : 50px;
+        color : white;
+        left : 150px;
+    }
+    .icon1{
+        position: relative;
+        left : 250px;
+        color : white;
+        top : 10px;
+        
+    
+    }
+    .line2{
+        width : 20%;
+        position: relative;
+        color : white;
+        left : 285px;
+       bottom : 20px;
+        
+    }
+    .text6{
+        color: white;
+        position: relative;
+        left : 30px;
+        bottom: 15px;
+
+    }
+    .text7{
+        color: white;
+        position: relative;
+        left : 30px;
+        bottom : 30px;
+    }
+    .nav{
+        background-color: black;
+        height : 50px;
+        position : relative;
+        bottom : 20px;
+    }
+    .text1{
+        color: white;
+        font-size: 18px;
+        position : relative;
+        top : 20px;
+        left : 20px;
+    }
+    .text2{
+        color: white;
+        font-size: 18px;
+        position : relative;
+        top : 20px;
+        left : 100px;
+    }
+    .text3{
+        color: white;
+        font-size: 18px;
+        position: relative;
+        top : 20px;
+        left : 120px;
+        
+    }
+    .text4{
+        color: white;
+        font-size: 18px;
+        position: relative;
+        top : 20px;
+        left : 140px;
+    }
+}

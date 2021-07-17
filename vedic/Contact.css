@@ -1,0 +1,334 @@
+.text5{
+    color: darkblue;
+    position: relative;
+    left : 450px;
+    top : 20px;
+
+}
+.nav{
+    background-color: black;
+    height : 50px;
+    position : relative;
+    bottom : 20px;
+}
+.text1{
+    color: white;
+    font-size: 18px;
+    position : relative;
+    top : 20px;
+    left : 40px;
+}
+.text2{
+    color: white;
+    font-size: 18px;
+    position : relative;
+    top : 20px;
+    left : 650px;
+    
+}
+.text3{
+    color: white;
+    font-size: 18px;
+    position: relative;
+    top : 20px;
+    left : 700px;
+
+    
+}
+.text4{
+    color: white;
+    font-size: 18px;
+    position: relative;
+    top : 20px;
+    left : 750px;
+    
+
+}
+
+.block{
+    box-shadow: 0 3px 6px 0 rgba(80, 77, 77, 0.16);
+    height : 500px;
+    position: relative;
+    bottom : 20px;
+    overflow: hidden;
+    background-color : white
+}
+.textbox1{
+    position: relative;
+    left : 450px;
+    font-size: 18px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    top : 50px;
+}
+.textbox2{
+    position: relative;
+    left : 450px;
+    top : 60px;
+    font-size: 18px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.textbox3{
+    position: relative;
+    left : 450px;
+    top : 70px;
+    font-size: 18px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.textbox4{
+    position: relative;
+    left : 450px;
+    top : 80px;
+    font-size: 18px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.button{
+    position: relative;
+    left : 450px;
+    top : 90px;
+    font-size: 18px;
+    background-color: blue;
+    color: white;
+}
+.block2{
+    box-shadow: 0 3px 6px 0 rgba(80, 77, 77, 0.16);
+    background-color:cadetblue;
+    height : 100px;
+    position: relative;
+    bottom : 40px;
+    overflow: hidden;
+}
+.pre1{
+    position: relative;
+    top : 20px;
+    color: white;
+    left : 190px;
+}
+.pre2{
+    position: relative;
+   bottom : 100px;
+    color: white;
+    left : 640px;
+}
+.p1{
+    position: relative;
+   bottom : 80px;
+    color: white;
+    left : 450px;
+}
+.img1{
+    width : 20px;
+    height : 20px;
+    position: relative;
+    bottom : 50px;
+    left : 310px;
+    border : 1px white;
+    
+}
+.img2{
+    width : 20px;
+    height : 20px;
+    position: relative;
+    bottom : 50px;
+    left : 320px;
+    border : 1px white;
+}
+.img3{
+    width : 20px;
+    height : 20px;
+    position: relative;
+    bottom : 50px;
+    left : 330px;
+    border : 1px white;
+}
+.block3{
+    box-shadow: 0 3px 6px 0 rgba(80, 77, 77, 0.16);
+    background-color: teal;
+    height : 30px;
+    position: relative;
+    bottom : 40px;
+}
+.centre{
+    color: white;
+    position: relative;
+    left : 480px;
+}
+@media only screen and (max-width : 600px) {
+    .text5{
+        color: darkblue;
+        position: relative;
+        left : 100px;
+        top : 20px;
+    
+    }
+    .nav{
+        background-color: black;
+        height : 50px;
+        position : relative;
+        bottom : 20px;
+    }
+    .text1{
+        color: white;
+        font-size: 18px;
+        position : relative;
+        top : 20px;
+        left : 30px;
+    }
+    .text2{
+        color: white;
+        font-size: 18px;
+        position : relative;
+        top : 20px;
+        left : 100px;
+        
+    }
+    .text3{
+        color: white;
+        font-size: 18px;
+        position: relative;
+        top : 20px;
+        left : 120px;
+    
+        
+    }
+    .text4{
+        color: white;
+        font-size: 18px;
+        position: relative;
+        top : 20px;
+        left : 130px;
+        
+    
+    }
+    
+    .block{
+        box-shadow: 0 3px 6px 0 rgba(80, 77, 77, 0.16);
+        height : 500px;
+        position: relative;
+        bottom : 20px;
+        overflow: hidden;
+        background-color : white
+    }
+    .textbox1{
+        position: relative;
+        left : 100px;
+        font-size: 18px;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        top : 50px;
+    }
+    .textbox2{
+        position: relative;
+        left : 100px;
+        top : 60px;
+        font-size: 18px;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .textbox3{
+        position: relative;
+        left : 100px;
+        top : 70px;
+        font-size: 18px;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .textbox4{
+        position: relative;
+        left : 100px;
+        top : 80px;
+        font-size: 18px;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .button{
+        position: relative;
+        left : 100px;
+        top : 90px;
+        font-size: 18px;
+        background-color: blue;
+        color: white;
+    }
+    .block2{
+        box-shadow: 0 3px 6px 0 rgba(80, 77, 77, 0.16);
+        background-color:cadetblue;
+        height : 100px;
+        position: relative;
+        bottom : 40px;
+        overflow: hidden;
+    }
+    .pre1{
+        position: relative;
+        top : 20px;
+        color: white;
+        left : -40px;
+    }
+    .pre2{
+        position: relative;
+       bottom : 100px;
+        color: white;
+        left : 210px;
+    }
+    .p1{
+        position: relative;
+       bottom : 80px;
+        color: white;
+        left : 140px;
+    }
+    .img1{
+        width : 20px;
+        height : 20px;
+        position: relative;
+        bottom : 40px;
+        left : 40px;
+        border : 1px white;
+        
+    }
+    .img2{
+        width : 20px;
+        height : 20px;
+        position: relative;
+        bottom : 40px;
+        left : 40px;
+        border : 1px white;
+    }
+    .img3{
+        width : 20px;
+        height : 20px;
+        position: relative;
+        bottom : 40px;
+        left : 40px;
+        border : 1px white;
+    }
+    .block3{
+        box-shadow: 0 3px 6px 0 rgba(80, 77, 77, 0.16);
+        background-color: teal;
+        height : 30px;
+        position: relative;
+        bottom : 40px;
+    }
+    .centre{
+        color: white;
+        position: relative;
+        left : 100px;
+    }
+}
